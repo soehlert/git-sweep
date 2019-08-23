@@ -1,0 +1,49 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7e77a7571f5f42480782a0631b9f663a5abf51b075da919e870b8fad198e8865"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "git-sweep": {
+            "hashes": [
+                "sha256:cd29f1c37247b05aeef5f399489657f973aed78e2e2740da20a62502da0757b3"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
+        },
+        "gitdb2": {
+            "hashes": [
+                "sha256:83361131a1836661a155172932a13c08bda2db3674e4caa32368aa6eb02f38c2",
+                "sha256:e3a0141c5f2a3f635c7209d56c496ebe1ad35da82fe4d3ec4aaa36278d70648a"
+            ],
+            "version": "==2.0.5"
+        },
+        "gitpython": {
+            "hashes": [
+                "sha256:947cc75913e7b6da108458136607e2ee0e40c20be1e12d4284e7c6c12956c276",
+                "sha256:d2f4945f8260f6981d724f5957bc076398ada55cb5d25aaee10108bcdc894100"
+            ],
+            "version": "==3.0.2"
+        },
+        "smmap2": {
+            "hashes": [
+                "sha256:0555a7bf4df71d1ef4218e4807bbf9b201f910174e6e08af2e138d4e517b4dde",
+                "sha256:29a9ffa0497e7f2be94ca0ed1ca1aa3cd4cf25a1f6b4f5f87f74b46ed91d609a"
+            ],
+            "version": "==2.0.5"
+        }
+    },
+    "develop": {}
+}
